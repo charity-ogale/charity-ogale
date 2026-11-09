@@ -33,16 +33,22 @@ I'm passionate about identifying security weaknesses, understanding risks and do
 
 ## Featured Projects
 
-### 1. Wazuh Security Monitoring
+## Featured Projects
+
+### 1. [Wazuh Security Monitoring](https://github.com/charity-ogale/cybersecurity-grc-data-portfolio/tree/main/01-wazuh-security-monitoring)
+
 Deployed and configured Wazuh in a lab environment, connected a Windows endpoint and explored security alerts, vulnerability detection, File Integrity Monitoring and Security Configuration Assessment.
 
-### 2. Nessus Vulnerability Assessment
+### 2. [Nessus Vulnerability Assessment](https://github.com/charity-ogale/cybersecurity-grc-data-portfolio/tree/main/02-nessus-vulnerability-assessment)
+
 Conducted a vulnerability assessment against an intentionally vulnerable lab host, identified security weaknesses and documented remediation recommendations.
 
-### 3. Linux Security & System Administration
+### 3. [Linux Security & System Administration](https://github.com/charity-ogale/cybersecurity-grc-data-portfolio/tree/main/03-linux-security-administration)
+
 Practised Linux command-line operations, user information discovery and file permission management using Kali Linux.
 
-### 4. Metasploit Practical Penetration Testing
+### 4. [Metasploit Practical Penetration Testing](https://github.com/charity-ogale/cybersecurity-grc-data-portfolio/tree/main/04-metasploit-penetration-testing)
+
 Performed network reconnaissance, exploit research and controlled exploitation against an intentionally vulnerable EyesOfNetwork target, successfully establishing a Meterpreter session.
 
 ## Professional Interests
